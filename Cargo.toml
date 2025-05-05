@@ -2,7 +2,10 @@
 name = "rg_records_rs"
 version = "0.1.0"
 edition = "2024"
+description = "A Rust library for management of rhytm game records"
 license = "MIT"
+documentation = "https://docs.rs/rg_records_rs"
+repository = "https://github.com/NangmanGureum/rg_records_rs"
 
 [dependencies]
 rustkorean = "1.1.2"
