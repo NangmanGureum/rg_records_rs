@@ -2,6 +2,7 @@
 name = "rg_records_rs"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 rustkorean = "1.1.2"
