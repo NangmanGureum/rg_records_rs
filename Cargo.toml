@@ -1,5 +1,5 @@
 [package]
-name = "rg_record"
+name = "rg_records_rs"
 version = "0.1.0"
 edition = "2024"
 
